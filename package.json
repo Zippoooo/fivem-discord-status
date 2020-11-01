@@ -1,0 +1,20 @@
+{
+  "name": "fivem-server-status",
+  "version": "1.0.0",
+  "description": "Discord.js FiveM Interval Status",
+  "main": "index.js",
+  "scripts": {
+    "test": "!help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "NaN"
+  },
+  "author": "Zippo#7777 | Yaheli Vaknin",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.4.1",
+    "node-fetch": "^2.6.1"
+  }
+}
