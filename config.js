@@ -2,9 +2,9 @@ const config = {
     /* Bot Back Configuration */
     prefix: '!', // Bot Prefix
     token: '', // Bot Token
-    channelid: '',
-    messageid: '',
-    statuschannelid: '',
+    channelid: '', // channel ID
+    messageid: '', // Message ID
+    statuschannelid: '', // Status Channel ID
     /* Bot Front Configuration */
     server: {
         image: '', // Server Image For Embed
