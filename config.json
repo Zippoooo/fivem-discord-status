@@ -1,0 +1,23 @@
+{
+	"token": "",
+	"prefix": "!",
+	"interval": 30000,
+	"branding": {
+        "author": "GamingX - Serious Public Roleplay",
+        "authorLogo": "https://media.discordapp.net/attachments/792840207657467914/793387348552450078/GamingXLogo.gif",
+		"color": "#f0a500",
+		"footer": "IP: 185.185.134.28:30120",
+		"footerlogo": "",
+		"thumbnail": "https://cdn.discordapp.com/attachments/792840207657467914/793387348552450078/GamingXLogo.gif",
+		"image": "https://cdn.gamingx.co.il/i/SZV600D5BF8D5A0B.gif",
+		"serverClosed": "Server Closed",
+		"serverClosedColor": "#fa1e0e"
+	},
+	"server": {
+		"ip": "185.185.134.28",
+		"port": 30120,
+		"maxPlayers": 32
+	},
+	"messageid": "820284258299412510",
+	"channelid": "805050313160917022"
+}
