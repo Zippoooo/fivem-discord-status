@@ -4,7 +4,6 @@ const config = require("./config.json");
 const chalk = require("chalk");
 const fetch = require("node-fetch");
 const fs = require("fs");
-const { totalmem } = require("os");
 var branding = config.branding
 /* Configuartion */
 chalk.gold = chalk.hex("fecd69").bold;
